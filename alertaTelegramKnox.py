@@ -10,7 +10,7 @@ import time
 from datetime import datetime
 
 path = '/home/pi/Desktop/sistemaAlertaTelegram/'
-token = '1009820696:AAE_GTTncwmgj3aVaikS-InZ8N-OUDK3nNE'
+token = 'DIGITE O SEU TOKEN BOT TELEGRAM'
 bot = telepot.Bot(token)
 
 
